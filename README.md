@@ -6,13 +6,13 @@
 
 ---
 
-## ✨ Key Features  
+## 🍂 Key Features  
 - **Anonymous Letter Sending**: Write and send letters anonymously to users in other servers.  
 - **Reply System**: Respond to letters without losing anonymity.  
 - **Premium Features**: Customize your letters with different text and background colors.  
 - **Letter Gallery**: Save and revisit your favorite letters in a personalized gallery.  
 - **Reactions**: React with emojis to reply, save, or even discover the sender's identity.
-  ServerLetter was designed for:  
+- ServerLetter was designed for:  
 - Making new friends across the Discord ecosystem.  
 - Sharing secrets or personal thoughts
 ---
