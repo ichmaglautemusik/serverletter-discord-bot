@@ -34,3 +34,6 @@ Here’s how users could interact with **ServerLetter**:
   - **`/resetgallerybg`**: Reset the gallery background to default.  
 
 ---
+
+## Original Listing :
+https://top.gg/bot/1251836851388551228
