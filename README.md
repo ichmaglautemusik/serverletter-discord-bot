@@ -1,6 +1,7 @@
 # ServerLetter: Connect Anonymously Across Discord Servers 🍂
 
 **ServerLetter** is a unique Discord bot that lets users connect anonymously by sending and receiving letters across servers. Engage in secretive and exciting conversations without revealing your identity. While the project is now abandoned, it remains a testament to creativity and connection in the Discord community <3.
+![Banner]([https://example.com/path-to-image/banner.png](https://raw.githubusercontent.com/ichmaglautemusik/serverletter-discord-bot/refs/heads/main/serverletter.png?token=GHSAT0AAAAAAC54PFWNG5A5I5TTDJXNB2WGZ4YEBLA))
 
 ---
 
