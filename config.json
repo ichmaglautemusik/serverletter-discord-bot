@@ -1,0 +1,17 @@
+{
+  "token": "BOT TOKEN",
+  "clientId": "BOT CLIENT ID",
+  "ownerID": "Owner Discord ID",
+  "cooldownHours": 12,
+  "voteDurationHours": 12,
+  "allowedUserId": "Owner Discord ID again",
+  "backgroundColor": "#e4d5b7",
+  "textColor": "#6a4a3a",
+  "port": 5959,
+  "backgroundElementPath": "./images/element.png",
+  "elementMinCount": 500,
+  "elementMaxCount": 1000,
+  "elementMinScale": 5,
+  "elementMaxScale": 20,
+    "webhookAuth": "YOUR_TOPGG_WEBHOOK_AUTH"
+}
